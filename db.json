@@ -1,0 +1,38 @@
+{
+  "client": {
+    "name": "Sebastian Santos",
+    "url": "https://placeimg.com/300/300/people?t=0.8373712958521629"
+  },
+  "domicilio": [
+    {
+      "id": 1,
+      "num": "3062",
+      "domicilio": "Oficina principal",
+      "calle": "berto Arvelo",
+      "numero": "1022",
+      "sector": "Gazcue",
+      "provincia": "Distrito Nacional",
+      "estado": "activo"
+    },
+    {
+      "id": 2,
+      "num": "3061",
+      "domicilio": "Oficina principal",
+      "calle": "Calle samana",
+      "numero": "10201",
+      "sector": "Evaristo Morales",
+      "provincia": "Distrito Nacional",
+      "estado": "activo"
+    },
+    {
+      "num": "123",
+      "domicilio": "Oficina de trabajo",
+      "calle": "Berto arvelo",
+      "numero": "23",
+      "sector": "Gazcue",
+      "provincia": "Distrito Nacional",
+      "estado": "activo",
+      "id": 6
+    }
+  ]
+}
