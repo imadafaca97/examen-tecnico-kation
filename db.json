@@ -5,9 +5,9 @@
   },
   "domicilio": [
     {
-      "id": 1,
+      "id": 0,
       "num": "3062",
-      "domicilio": "Oficina principal",
+      "domicilio": "Universidad",
       "calle": "berto Arvelo",
       "numero": "1022",
       "sector": "Gazcue",
@@ -15,24 +15,24 @@
       "estado": "activo"
     },
     {
-      "id": 2,
-      "num": "3061",
+      "id": 1,
+      "num": "3062",
       "domicilio": "Oficina principal",
-      "calle": "Calle samana",
-      "numero": "10201",
+      "calle": "Ave. Winton Churchil",
+      "numero": "1022",
       "sector": "Evaristo Morales",
       "provincia": "Distrito Nacional",
       "estado": "activo"
     },
     {
-      "num": "123",
-      "domicilio": "Oficina de trabajo",
-      "calle": "Berto arvelo",
-      "numero": "23",
-      "sector": "Gazcue",
+      "id": 2,
+      "num": "3061",
+      "domicilio": "Casa",
+      "calle": "Calle samana",
+      "numero": "10201",
+      "sector": "Evaristo Morales",
       "provincia": "Distrito Nacional",
-      "estado": "activo",
-      "id": 6
+      "estado": "activo"
     }
   ]
 }
